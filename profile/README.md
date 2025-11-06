@@ -31,7 +31,7 @@ frmwrk exists to create what happens when both align.
 
 - Website: [frmwrk.so](https://frmwrk.so)  
 - X (Twitter): [@builtbyfrmwrk](https://x.com/builtbyfrmwrk)  
-- GitHub: [github.com/frmwrk](https://github.com/frmwrk)
+- GitHub: [github.com/builtbyfrmwrk](https://github.com/builtbyfrmwrk)
 
 ---
 
