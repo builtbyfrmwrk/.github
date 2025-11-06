@@ -11,8 +11,10 @@
 frmwrk builds products at the intersection of design and technology.  
 We focus on creating systems that are clear, functional, and built to last.
 
-Current projects include:
-- **Playtester** — a discovery platform for upcoming and ongoing game playtests
+#### [Playtester](https://playtester.io)
+> Discover and join playtests for upcoming games.
+
+[![Playtester](https://playtester.io/og/default.webp)](https://playtester.io)
 
 Each product reflects frmwrk’s core principles: precision, usability, and thoughtful execution.
 
