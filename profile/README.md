@@ -1,9 +1,8 @@
 # frmwrk
 
-[![Website](https://img.shields.io/badge/website-frmwrk.so-black?style=flat-square)](https://frmwrk.so)
-[![Built by](https://img.shields.io/badge/built_by-Shaan_Shivanandan-lightgrey?style=flat-square)](https://github.com/shivanandanshaan)
-[![Projects](https://img.shields.io/badge/projects-Playtester-black?style=flat-square)](https://frmwrk.so)
-[![License](https://img.shields.io/badge/license-MIT-lightgrey?style=flat-square)](LICENSE)
+[![Website](https://img.shields.io/badge/frmwrk.so-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://frmwrk.so)
+[![Built by](https://img.shields.io/badge/Built_by_Shaan_Shivanandan-1a1a1a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shivanandanshaan)
+[![Projects](https://img.shields.io/badge/Projects-Playtester-2d2d2d?style=for-the-badge)](https://frmwrk.so)
 
 ---
 
