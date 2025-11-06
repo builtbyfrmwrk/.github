@@ -1,12 +1,38 @@
-## Hi there 👋
+# frmwrk
 
-<!--
+[![Website](https://img.shields.io/badge/website-frmwrk.so-black?style=flat-square)](https://frmwrk.so)
+[![Built by](https://img.shields.io/badge/built_by-Shaan_Shibanandan-lightgrey?style=flat-square)](https://github.com/shivanandanshaan)
+[![Projects](https://img.shields.io/badge/projects-Playtester_•_ALTIQ-black?style=flat-square)](https://frmwrk.so)
+[![License](https://img.shields.io/badge/license-MIT-lightgrey?style=flat-square)](LICENSE)
 
-**Here are some ideas to get you started:**
+---
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+### About
+
+frmwrk builds products at the intersection of design and technology.  
+We focus on creating systems that are clear, functional, and built to last.
+
+Current projects include:
+- **Playtester** — a discovery platform for upcoming and ongoing game playtests
+
+Each product reflects frmwrk’s core principles: precision, usability, and thoughtful execution.
+
+---
+
+### Philosophy
+
+We believe in building products that balance form and function.  
+Good design is invisible. Good technology stays out of the way.  
+frmwrk exists to create what happens when both align.
+
+---
+
+### Connect
+
+- Website: [frmwrk.so](https://frmwrk.so)  
+- X (Twitter): [@builtbyfrmwrk](https://x.com/builtbyfrmwrk)  
+- GitHub: [github.com/frmwrk](https://github.com/frmwrk)
+
+---
+
+© 2025 frmwrk. All rights reserved.
