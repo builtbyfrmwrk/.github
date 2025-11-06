@@ -11,10 +11,24 @@
 frmwrk builds products at the intersection of design and technology.  
 We focus on creating systems that are clear, functional, and built to last.
 
-#### [Playtester](https://playtester.io)
-> Discover and join playtests for upcoming games.
-
-[![Playtester](https://playtester.io/og/default.webp)](https://playtester.io)
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://playtester.io">
+        <img src="https://playtester.io/og/default.webp" alt="Playtester" width="100%" />
+        <h3>Playtester</h3>
+      </a>
+      <p>Discover and join playtests for upcoming games.</p>
+    </td>
+    <td align="center" width="50%">
+      <a href="#">
+        <img src="https://playtester.io/og/default.webp" alt="" width="100%" />
+        <h3>Coming soon</h3>
+      </a>
+      <p>...</p>
+    </td>
+  </tr>
+</table>
 
 Each product reflects frmwrk’s core principles: precision, usability, and thoughtful execution.
 
