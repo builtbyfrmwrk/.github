@@ -1,7 +1,7 @@
 # frmwrk
 
 [![Website](https://img.shields.io/badge/website-frmwrk.so-black?style=flat-square)](https://frmwrk.so)
-[![Built by](https://img.shields.io/badge/built_by-Shaan_Shibanandan-lightgrey?style=flat-square)](https://github.com/shivanandanshaan)
+[![Built by](https://img.shields.io/badge/built_by-Shaan_Shivanandan-lightgrey?style=flat-square)](https://github.com/shivanandanshaan)
 [![Projects](https://img.shields.io/badge/projects-Playtester_•_ALTIQ-black?style=flat-square)](https://frmwrk.so)
 [![License](https://img.shields.io/badge/license-MIT-lightgrey?style=flat-square)](LICENSE)
 
